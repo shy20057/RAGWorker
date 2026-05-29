@@ -1,8 +1,5 @@
 # RAGent AI - 智能文档问答与知识库系统
 
-<p align="center">
-  <img src="assets/ragent-ai-banner.png" alt="RAGent AI Banner" width="600"/>
-</p>
 
 <p align="center">
   <a href="#-项目简介">项目简介</a> •
